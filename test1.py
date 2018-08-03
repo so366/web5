@@ -1,4 +1,7 @@
-#!/usr/bin/env python
-#_*_coding:utf-8_*_
 
+def hello():
+    print('hello')
+
+
+hello()
 
